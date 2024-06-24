@@ -33,7 +33,7 @@
         "deviceNameLabel": "Nom de l'appareil",
         "deviceNamePlaceholder": "Téléphone personnel",
         "generate": {
-            "description": "Le nom d'utilisateur et le mot de passe sont obtenus à partir de votre phrase d'accès. Vous devrez la saisir pour accéder à votre compte, alors gardez-la précieusement",
+            "description": "Le nom d'utilisateur et le mot de passe sont obtenus à partir de votre phrase d'accès. Vous devrez la saisir pour accéder à votre compte, alors gardez-la précieusement <bold>Ne perdez pas votre phrase d'accès !</bold>",
             "next": "J'ai sauvegardé ma phrase d'accès",
             "passphraseFrameLabel": "Phrase d'accès",
             "title": "Votre phrase d'accès"
@@ -52,7 +52,7 @@
             "information": {
                 "color1": "Première couleur de profil",
                 "color2": "Seconde couleur de profil",
-                "header": "Veuillez entrer un nom pour votre appareil, choisir vos couleurs et une icône utilisateur de votre choix",
+                "header": "Veuillez entrer un nom pour votre appareil, choisir vos couleurs et une icône utilisateur de votre choix !",
                 "icon": "Icône d'utilisateur",
                 "next": "Suivant",
                 "title": "Informations du compte"
@@ -135,7 +135,10 @@
                     "Que voulez-vous explorer ?",
                     "Qu'y a-t-il dans votre liste de lecture ?",
                     "Quel est votre film préféré ?",
-                    "Quelle est votre série préférée ?"
+                    "Quelle est votre série préférée ?",
+                    "Que souhaitez-vous regarder aujourd'hui ?",
+                    "Comment s'est passé votre journée ?",
+                    "Désolé, le site ne fonctionne jamais..."
                 ]
             },
             "sectionTitle": "Résultats de la recherche"
